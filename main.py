@@ -38,5 +38,6 @@ def ordering_form(e):
 
     display(f'Order for: {fname}', target='output')
     display(f'Address: {add}', target='output')
-    display(f'Phone Number: {tel}', target='output')
+    display(f'Contact Number: {tel}', target='output')
+
     display(f'Total: ₱{total}', target='output')
